@@ -35,7 +35,7 @@ All instructors on the platform are women, creating a relatable and encouraging 
 
 ## 🎥 Demo Video (Google Drive)
 
-🔗 [Watch the demo video (max 4 min)](https://drive.google.com/file/d/1mGVlFEE05xToMLXVlAqjmuWDD6ey59wu/view?usp=sharing)
+🔗 [Watch the demo video](https://drive.google.com/file/d/1mGVlFEE05xToMLXVlAqjmuWDD6ey59wu/view?usp=sharing)
 
 ---
 
