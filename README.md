@@ -31,7 +31,7 @@ All instructors on the platform are women, creating a relatable and encouraging 
 
 ## 🎨 Figma Design/Prototype
 
-🔗 [View the Figma prototype]([https://www.figma.com/file/your-figma-link](https://www.figma.com/proto/ME9ggOn5JtZUn8kDzX0TAk/TechLiliy?node-id=0-1&t=rm6giNwa8sIhooBS-1))
+🔗 [View the Figma prototype](https://www.figma.com/proto/ME9ggOn5JtZUn8kDzX0TAk/TechLiliy?node-id=0-1&t=rm6giNwa8sIhooBS-1)
 
 ## 🎥 Demo Video (Google Drive)
 
