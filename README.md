@@ -27,11 +27,11 @@ All instructors on the platform are women, creating a relatable and encouraging 
 
 ## 🚀 Deployed Web App (Vercel)
 
-🔗 [Click here to view TechLily live](https://your-vercel-link.vercel.app)
+🔗 [Click here to view TechLily live](https://tech-lily.vercel.app)
 
 ## 🎨 Figma Design/Prototype
 
-🔗 [View the Figma prototype](https://www.figma.com/file/your-figma-link)
+🔗 [View the Figma prototype](https://www.figma.com/proto/ME9ggOn5JtZUn8kDzX0TAk/TechLiliy?node-id=0-1&t=rm6giNwa8sIhooBS-1)
 
 ## 🎥 Demo Video (Google Drive)
 
